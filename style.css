@@ -22,3 +22,11 @@ p {
 sup {
   color: #ffffff;
 }
+div {
+            background-color: lightgrey;
+            width: 300px;
+            border: 10px solid grey;
+            padding: 50px;
+            margin: 20px;
+            border-radius: 8px;
+}
